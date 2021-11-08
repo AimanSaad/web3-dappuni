@@ -1,3 +1,4 @@
+require ('dotenv').config();
 //Inside the app.js file, we'll first require the newly installed library
 var Tx = require ('ethereumjs-tx');
 //set up a Web3 connection 
