@@ -1,3 +1,4 @@
+//add a dotenv file
 require ('dotenv').config;
 //set up a connection
 var Tx = require('ethereumjs-tx');
